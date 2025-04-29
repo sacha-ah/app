@@ -5,7 +5,7 @@ from PIL import Image
 import streamlit as st
 
 # 📁 Dossier contenant les images source
-dossier_images = "/Users/sacha.ah/Desktop/MonProjet/Insta"
+dossier_images = "MonProjet/Insta2"
 
 # 📦 Extensions d'images acceptées
 extensions = [".jpg", ".jpeg", ".png", ".bmp", ".gif"]
